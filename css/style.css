@@ -1,0 +1,31 @@
+h1 {
+  font-family:cursive;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  font-family: helvetica, times, arial;
+  font-size: 30px;
+  background-color: orange;
+}
+
+body {
+  font-family: times, arial;
+  background-color: yellow;
+}
+
+.Lesson {
+  background-color: white;
+}
+.LessonTitle {
+  font-family: arial;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold
+}
